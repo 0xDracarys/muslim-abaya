@@ -5,7 +5,7 @@
 This project provides a comprehensive solution for online stores, featuring a powerful admin dashboard and a customer-facing store frontend. It uses a modern tech stack with direct database access and API fallbacks for robust data retrieval.
 
 ## Features
-
+ 
 ### Admin Dashboard (http://localhost:3000)
 
 #### Store Management
