@@ -1,5 +1,3 @@
-# <img src="image.png" width=250px height=auto alt="Logo">
-
 # E-Commerce Platform: Admin Dashboard + Store
 
 This project provides a comprehensive solution for online stores, featuring a powerful admin dashboard and a customer-facing store frontend. It uses a modern tech stack with direct database access and API fallbacks for robust data retrieval.
